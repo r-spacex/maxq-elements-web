@@ -1,0 +1,6 @@
+[submodule "maxq-button"]
+	path = maxq-button
+	url = git@github.com:r-spacex/maxq-button.git
+[submodule "maxq-input"]
+	path = maxq-input
+	url = git@github.com:r-spacex/maxq-input.git
